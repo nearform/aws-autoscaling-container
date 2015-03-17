@@ -1,0 +1,29 @@
+{
+  "name": "aws-autoscaling-container",
+  "version": "0.0.1",
+  "description": "",
+  "main": "container.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nearform/aws-autoscaling-container.git"
+  },
+  "keywords": [
+    "nscale",
+    "aws",
+    "autoscaling"
+  ],
+  "author": "Matteo Collina <matteo.collin@nearform.com>",
+  "license": "Artistic License 2.0",
+  "bugs": {
+    "url": "https://github.com/nearform/aws-autoscaling-container/issues"
+  },
+  "homepage": "https://github.com/nearform/aws-autoscaling-container",
+  "dependencies": {
+    "aws-sdk": "^2.1.17",
+    "bunyan": "^1.3.4",
+    "lodash": "^3.5.0"
+  }
+}
