@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/nearform/aws-autoscaling-container",
   "dependencies": {
+    "async": "^0.9.0",
     "aws-sdk": "^2.1.17",
     "bunyan": "^1.3.4",
     "lodash": "^3.5.0"
