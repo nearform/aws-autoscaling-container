@@ -1,7 +1,7 @@
 {
   "name": "aws-autoscaling-container",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.1.0",
+  "description": "AWS Autoscaling Group support for nscale",
   "main": "lib/container.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,10 @@
     "aws",
     "autoscaling"
   ],
-  "author": "Matteo Collina <matteo.collin@nearform.com>",
+  "contributors": [
+    "Luca Lanziani <luca@lanziani.com>",
+    "Matteo Collina <matteo.collin@nearform.com>"
+  ],
   "license": "Artistic License 2.0",
   "bugs": {
     "url": "https://github.com/nearform/aws-autoscaling-container/issues"
