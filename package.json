@@ -1,6 +1,6 @@
 {
   "name": "aws-autoscaling-container",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "AWS Autoscaling Group support for nscale",
   "main": "lib/container.js",
   "scripts": {
